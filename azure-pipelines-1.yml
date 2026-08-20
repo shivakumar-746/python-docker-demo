@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  name: : nishu
+  name: nishu
 
 steps:
 - script: echo Hello, world!
